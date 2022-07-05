@@ -1,0 +1,18 @@
+C:\Users\TSDI 1\Desktop\C# evementielle\tp4 exe 9\tp4 exe 9\bin\Debug\tp4 exe 9.exe.config
+C:\Users\TSDI 1\Desktop\C# evementielle\tp4 exe 9\tp4 exe 9\bin\Debug\tp4 exe 9.exe
+C:\Users\TSDI 1\Desktop\C# evementielle\tp4 exe 9\tp4 exe 9\bin\Debug\tp4 exe 9.pdb
+C:\Users\TSDI 1\Desktop\C# evementielle\tp4 exe 9\tp4 exe 9\obj\Debug\tp4 exe 9.csprojResolveAssemblyReference.cache
+C:\Users\TSDI 1\Desktop\C# evementielle\tp4 exe 9\tp4 exe 9\obj\Debug\tp4_exe_9.Form1.resources
+C:\Users\TSDI 1\Desktop\C# evementielle\tp4 exe 9\tp4 exe 9\obj\Debug\tp4_exe_9.Properties.Resources.resources
+C:\Users\TSDI 1\Desktop\C# evementielle\tp4 exe 9\tp4 exe 9\obj\Debug\tp4 exe 9.csproj.GenerateResource.Cache
+C:\Users\TSDI 1\Desktop\C# evementielle\tp4 exe 9\tp4 exe 9\obj\Debug\tp4 exe 9.exe
+C:\Users\TSDI 1\Desktop\C# evementielle\tp4 exe 9\tp4 exe 9\obj\Debug\tp4 exe 9.pdb
+F:\School\ista tafraout\tp C#\tp4 exe 9\tp4 exe 9\bin\Debug\tp4 exe 9.exe.config
+F:\School\ista tafraout\tp C#\tp4 exe 9\tp4 exe 9\obj\Debug\tp4 exe 9.exe
+F:\School\ista tafraout\tp C#\tp4 exe 9\tp4 exe 9\obj\Debug\tp4 exe 9.pdb
+F:\School\ista tafraout\tp C#\tp4 exe 9\tp4 exe 9\bin\Debug\tp4 exe 9.exe
+F:\School\ista tafraout\tp C#\tp4 exe 9\tp4 exe 9\bin\Debug\tp4 exe 9.pdb
+F:\School\ista tafraout\tp C#\tp4 exe 9\tp4 exe 9\obj\Debug\tp4 exe 9.csprojResolveAssemblyReference.cache
+F:\School\ista tafraout\tp C#\tp4 exe 9\tp4 exe 9\obj\Debug\tp4_exe_9.Form1.resources
+F:\School\ista tafraout\tp C#\tp4 exe 9\tp4 exe 9\obj\Debug\tp4_exe_9.Properties.Resources.resources
+F:\School\ista tafraout\tp C#\tp4 exe 9\tp4 exe 9\obj\Debug\tp4 exe 9.csproj.GenerateResource.Cache
