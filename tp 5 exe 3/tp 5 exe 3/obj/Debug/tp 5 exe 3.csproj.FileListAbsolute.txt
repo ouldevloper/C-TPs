@@ -1,0 +1,13 @@
+C:\Users\TSDI 1\Desktop\c# tps\tp 5 exe 3\tp 5 exe 3\bin\Debug\tp 5 exe 3.exe.config
+F:\OFPPT\lhachm\C#\evementielle\tp 5 exe 3\tp 5 exe 3\bin\Debug\tp 5 exe 3.exe.config
+F:\OFPPT\lhachm\C#\evementielle\tp 5 exe 3\tp 5 exe 3\bin\Debug\tp 5 exe 3.exe
+F:\OFPPT\lhachm\C#\evementielle\tp 5 exe 3\tp 5 exe 3\bin\Debug\tp 5 exe 3.pdb
+F:\OFPPT\lhachm\C#\evementielle\tp 5 exe 3\tp 5 exe 3\obj\Debug\tp 5 exe 3.csprojResolveAssemblyReference.cache
+F:\OFPPT\lhachm\C#\evementielle\tp 5 exe 3\tp 5 exe 3\obj\Debug\tp_5_exe_3.Properties.Resources.resources
+F:\OFPPT\lhachm\C#\evementielle\tp 5 exe 3\tp 5 exe 3\obj\Debug\tp 5 exe 3.csproj.GenerateResource.Cache
+F:\OFPPT\lhachm\C#\evementielle\tp 5 exe 3\tp 5 exe 3\obj\Debug\tp 5 exe 3.exe
+F:\OFPPT\lhachm\C#\evementielle\tp 5 exe 3\tp 5 exe 3\obj\Debug\tp 5 exe 3.pdb
+F:\OFPPT\lhachm\C#\evementielle\tp 5 exe 3\tp 5 exe 3\obj\Debug\tp_5_exe_3.Form1.resources
+F:\School\ista tafraout\tp C#\tp 5 exe 3\tp 5 exe 3\bin\Debug\tp 5 exe 3.exe.config
+F:\School\ista tafraout\tp C#\tp 5 exe 3\tp 5 exe 3\obj\Debug\tp 5 exe 3.exe
+F:\School\ista tafraout\tp C#\tp 5 exe 3\tp 5 exe 3\obj\Debug\tp 5 exe 3.pdb

@@ -1,0 +1,15 @@
+C:\Users\TSDI 1\Desktop\c# tps\tp 6 exe 1\tp 6 exe 1\bin\Debug\tp 6 exe 1.exe.config
+C:\Users\TSDI 1\Desktop\c# tps\tp 6 exe 1\tp 6 exe 1\bin\Debug\tp 6 exe 1.exe
+C:\Users\TSDI 1\Desktop\c# tps\tp 6 exe 1\tp 6 exe 1\bin\Debug\tp 6 exe 1.pdb
+C:\Users\TSDI 1\Desktop\c# tps\tp 6 exe 1\tp 6 exe 1\obj\Debug\tp_6_exe_1.Form1.resources
+C:\Users\TSDI 1\Desktop\c# tps\tp 6 exe 1\tp 6 exe 1\obj\Debug\tp_6_exe_1.Properties.Resources.resources
+C:\Users\TSDI 1\Desktop\c# tps\tp 6 exe 1\tp 6 exe 1\obj\Debug\tp 6 exe 1.csproj.GenerateResource.Cache
+C:\Users\TSDI 1\Desktop\c# tps\tp 6 exe 1\tp 6 exe 1\obj\Debug\tp 6 exe 1.exe
+C:\Users\TSDI 1\Desktop\c# tps\tp 6 exe 1\tp 6 exe 1\obj\Debug\tp 6 exe 1.pdb
+C:\Users\TSDI 1\Desktop\c# tps\tp 6 exe 1\tp 6 exe 1\obj\Debug\tp 6 exe 1.csprojResolveAssemblyReference.cache
+H:\tp 6 exe 1\tp 6 exe 1\bin\Debug\tp 6 exe 1.exe.config
+H:\tp 6 exe 1\tp 6 exe 1\obj\Debug\tp 6 exe 1.exe
+H:\tp 6 exe 1\tp 6 exe 1\obj\Debug\tp 6 exe 1.pdb
+F:\School\ista tafraout\tp C#\tp 6 exe 1\tp 6 exe 1\bin\Debug\tp 6 exe 1.exe.config
+F:\School\ista tafraout\tp C#\tp 6 exe 1\tp 6 exe 1\obj\Debug\tp 6 exe 1.exe
+F:\School\ista tafraout\tp C#\tp 6 exe 1\tp 6 exe 1\obj\Debug\tp 6 exe 1.pdb
