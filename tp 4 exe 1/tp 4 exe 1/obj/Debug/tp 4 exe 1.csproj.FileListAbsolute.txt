@@ -1,0 +1,9 @@
+C:\Users\TSDI 1\Desktop\C# evementielle\tp 4 exe 1\tp 4 exe 1\bin\Debug\tp 4 exe 1.exe.config
+C:\Users\TSDI 1\Desktop\C# evementielle\tp 4 exe 1\tp 4 exe 1\obj\Debug\tp 4 exe 1.csprojResolveAssemblyReference.cache
+C:\Users\TSDI 1\Desktop\C# evementielle\tp 4 exe 1\tp 4 exe 1\obj\Debug\tp_4_exe_1.myform.resources
+C:\Users\TSDI 1\Desktop\C# evementielle\tp 4 exe 1\tp 4 exe 1\obj\Debug\tp_4_exe_1.Properties.Resources.resources
+C:\Users\TSDI 1\Desktop\C# evementielle\tp 4 exe 1\tp 4 exe 1\obj\Debug\tp 4 exe 1.csproj.GenerateResource.Cache
+C:\Users\TSDI 1\Desktop\C# evementielle\tp 4 exe 1\tp 4 exe 1\bin\Debug\tp 4 exe 1.exe
+C:\Users\TSDI 1\Desktop\C# evementielle\tp 4 exe 1\tp 4 exe 1\bin\Debug\tp 4 exe 1.pdb
+C:\Users\TSDI 1\Desktop\C# evementielle\tp 4 exe 1\tp 4 exe 1\obj\Debug\tp 4 exe 1.exe
+C:\Users\TSDI 1\Desktop\C# evementielle\tp 4 exe 1\tp 4 exe 1\obj\Debug\tp 4 exe 1.pdb
