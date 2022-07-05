@@ -1,0 +1,5 @@
+c:\users\ofppt tafrout\documents\visual studio 2010\Projects\tp9\tp9\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ofppt tafrout\documents\visual studio 2010\Projects\tp9\tp9\bin\Debug\tp9.exe
+c:\users\ofppt tafrout\documents\visual studio 2010\Projects\tp9\tp9\bin\Debug\tp9.pdb
+c:\users\ofppt tafrout\documents\visual studio 2010\Projects\tp9\tp9\obj\x86\Debug\tp9.exe
+c:\users\ofppt tafrout\documents\visual studio 2010\Projects\tp9\tp9\obj\x86\Debug\tp9.pdb
