@@ -1,0 +1,11 @@
+C:\Users\TSDI 1\Desktop\c# tps\tp 5 exe 2\tp 5 exe 2\bin\Debug\tp 5 exe 2.exe.config
+C:\Users\TSDI 1\Desktop\c# tps\tp 5 exe 2\tp 5 exe 2\bin\Debug\tp 5 exe 2.exe
+C:\Users\TSDI 1\Desktop\c# tps\tp 5 exe 2\tp 5 exe 2\bin\Debug\tp 5 exe 2.pdb
+C:\Users\TSDI 1\Desktop\c# tps\tp 5 exe 2\tp 5 exe 2\obj\Debug\tp_5_exe_2.Form1.resources
+C:\Users\TSDI 1\Desktop\c# tps\tp 5 exe 2\tp 5 exe 2\obj\Debug\tp_5_exe_2.Properties.Resources.resources
+C:\Users\TSDI 1\Desktop\c# tps\tp 5 exe 2\tp 5 exe 2\obj\Debug\tp 5 exe 2.csproj.GenerateResource.Cache
+C:\Users\TSDI 1\Desktop\c# tps\tp 5 exe 2\tp 5 exe 2\obj\Debug\tp 5 exe 2.exe
+C:\Users\TSDI 1\Desktop\c# tps\tp 5 exe 2\tp 5 exe 2\obj\Debug\tp 5 exe 2.pdb
+F:\School\ista tafraout\tp C#\tp 5 exe 2\tp 5 exe 2\bin\Debug\tp 5 exe 2.exe.config
+F:\School\ista tafraout\tp C#\tp 5 exe 2\tp 5 exe 2\obj\Debug\tp 5 exe 2.exe
+F:\School\ista tafraout\tp C#\tp 5 exe 2\tp 5 exe 2\obj\Debug\tp 5 exe 2.pdb
