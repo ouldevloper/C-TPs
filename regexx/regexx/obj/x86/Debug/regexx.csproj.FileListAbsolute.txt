@@ -1,0 +1,15 @@
+c:\users\ofppt tafrout\documents\visual studio 2010\Projects\regexx\regexx\bin\Debug\regexx.exe
+c:\users\ofppt tafrout\documents\visual studio 2010\Projects\regexx\regexx\bin\Debug\regexx.pdb
+c:\users\ofppt tafrout\documents\visual studio 2010\Projects\regexx\regexx\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ofppt tafrout\documents\visual studio 2010\Projects\regexx\regexx\obj\x86\Debug\regexx.exe
+c:\users\ofppt tafrout\documents\visual studio 2010\Projects\regexx\regexx\obj\x86\Debug\regexx.pdb
+H:\regexx\regexx\obj\x86\Debug\regexx.exe
+H:\regexx\regexx\obj\x86\Debug\regexx.pdb
+H:\regexx\regexx\bin\Debug\regexx.exe
+H:\regexx\regexx\bin\Debug\regexx.pdb
+H:\regexx\regexx\obj\x86\Debug\regexx.csprojResolveAssemblyReference.cache
+E:\School\school\regexx\regexx\obj\x86\Debug\regexx.exe
+E:\School\school\regexx\regexx\obj\x86\Debug\regexx.pdb
+E:\School\school\regexx\regexx\bin\Debug\regexx.exe
+E:\School\school\regexx\regexx\bin\Debug\regexx.pdb
+E:\School\school\regexx\regexx\obj\x86\Debug\regexx.csprojResolveAssemblyReference.cache

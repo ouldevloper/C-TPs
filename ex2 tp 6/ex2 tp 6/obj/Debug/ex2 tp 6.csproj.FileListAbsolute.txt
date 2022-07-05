@@ -1,0 +1,10 @@
+C:\Users\Anjar youssef\Desktop\elhachme bn sraide\tp Programmation évènementielle\ex2 tp 6\ex2 tp 6\obj\Debug\ex2_tp_6.Form1.resources
+C:\Users\Anjar youssef\Desktop\elhachme bn sraide\tp Programmation évènementielle\ex2 tp 6\ex2 tp 6\obj\Debug\ex2_tp_6.Properties.Resources.resources
+C:\Users\Anjar youssef\Desktop\elhachme bn sraide\tp Programmation évènementielle\ex2 tp 6\ex2 tp 6\obj\Debug\ex2 tp 6.csproj.GenerateResource.Cache
+C:\Users\Anjar youssef\Desktop\elhachme bn sraide\tp Programmation évènementielle\ex2 tp 6\ex2 tp 6\bin\Debug\ex2 tp 6.exe.config
+C:\Users\Anjar youssef\Desktop\elhachme bn sraide\tp Programmation évènementielle\ex2 tp 6\ex2 tp 6\bin\Debug\ex2 tp 6.exe
+C:\Users\Anjar youssef\Desktop\elhachme bn sraide\tp Programmation évènementielle\ex2 tp 6\ex2 tp 6\bin\Debug\ex2 tp 6.pdb
+C:\Users\Anjar youssef\Desktop\elhachme bn sraide\tp Programmation évènementielle\ex2 tp 6\ex2 tp 6\obj\Debug\ex2 tp 6.exe
+C:\Users\Anjar youssef\Desktop\elhachme bn sraide\tp Programmation évènementielle\ex2 tp 6\ex2 tp 6\obj\Debug\ex2 tp 6.pdb
+F:\School\ista tafraout\tp C#\ex2 tp 6\ex2 tp 6\bin\Debug\ex2 tp 6.exe.config
+F:\School\ista tafraout\tp C#\ex2 tp 6\ex2 tp 6\obj\Debug\ex2 tp 6.exe

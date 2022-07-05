@@ -1,0 +1,34 @@
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3_2exe\tp3_2exe\bin\Debug\tp3_2exe.exe.config
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3_2exe\tp3_2exe\bin\Debug\tp3_2exe.exe
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3_2exe\tp3_2exe\bin\Debug\tp3_2exe.pdb
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.csprojResolveAssemblyReference.cache
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.Form1.resources
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.Properties.Resources.resources
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.csproj.GenerateResource.Cache
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.exe
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.pdb
+J:\tp3_2exe\tp3_2exe\bin\Debug\tp3_2exe.exe.config
+J:\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.exe
+J:\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.pdb
+J:\tp3_2exe\tp3_2exe\bin\Debug\tp3_2exe.exe
+J:\tp3_2exe\tp3_2exe\bin\Debug\tp3_2exe.pdb
+J:\tp3_2exe\tp3_2exe\bin\Debug\mscorlib.dll
+J:\tp3_2exe\tp3_2exe\bin\Debug\System.Net.Http.dll
+J:\tp3_2exe\tp3_2exe\bin\Debug\System.Net.Http.xml
+J:\tp3_2exe\tp3_2exe\bin\Debug\normidna.nlp
+J:\tp3_2exe\tp3_2exe\bin\Debug\normnfc.nlp
+J:\tp3_2exe\tp3_2exe\bin\Debug\normnfd.nlp
+J:\tp3_2exe\tp3_2exe\bin\Debug\normnfkc.nlp
+J:\tp3_2exe\tp3_2exe\bin\Debug\normnfkd.nlp
+J:\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.csprojResolveAssemblyReference.cache
+J:\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.Form1.resources
+J:\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.Properties.Resources.resources
+J:\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.csproj.GenerateResource.Cache
+F:\tp3_2exe\tp3_2exe\bin\Debug\tp3_2exe.exe.config
+F:\tp3_2exe\tp3_2exe\bin\Debug\tp3_2exe.exe
+F:\tp3_2exe\tp3_2exe\bin\Debug\tp3_2exe.pdb
+F:\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.Form1.resources
+F:\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.Properties.Resources.resources
+F:\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.csproj.GenerateResource.Cache
+F:\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.exe
+F:\tp3_2exe\tp3_2exe\obj\Debug\tp3_2exe.pdb
