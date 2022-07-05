@@ -1,0 +1,9 @@
+C:\Users\TSDI 1\Desktop\C# evementielle\TP 3\TP 3\bin\Debug\TP 3.exe.config
+C:\Users\TSDI 1\Desktop\C# evementielle\TP 3\TP 3\obj\Debug\TP_3.Form1.resources
+C:\Users\TSDI 1\Desktop\C# evementielle\TP 3\TP 3\obj\Debug\TP_3.Properties.Resources.resources
+C:\Users\TSDI 1\Desktop\C# evementielle\TP 3\TP 3\obj\Debug\TP 3.csproj.GenerateResource.Cache
+C:\Users\TSDI 1\Desktop\C# evementielle\TP 3\TP 3\bin\Debug\TP 3.exe
+C:\Users\TSDI 1\Desktop\C# evementielle\TP 3\TP 3\bin\Debug\TP 3.pdb
+C:\Users\TSDI 1\Desktop\C# evementielle\TP 3\TP 3\obj\Debug\TP 3.exe
+C:\Users\TSDI 1\Desktop\C# evementielle\TP 3\TP 3\obj\Debug\TP 3.pdb
+C:\Users\TSDI 1\Desktop\C# evementielle\TP 3\TP 3\obj\Debug\TP 3.csprojResolveAssemblyReference.cache
