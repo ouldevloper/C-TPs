@@ -1,0 +1,17 @@
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3ex3\tp3ex3\bin\Debug\tp3ex3.exe.config
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3ex3\tp3ex3\bin\Debug\tp3ex3.exe
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3ex3\tp3ex3\bin\Debug\tp3ex3.pdb
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3ex3\tp3ex3\obj\Debug\tp3ex3.Form1.resources
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3ex3\tp3ex3\obj\Debug\tp3ex3.Properties.Resources.resources
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3ex3\tp3ex3\obj\Debug\tp3ex3.csproj.GenerateResource.Cache
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3ex3\tp3ex3\obj\Debug\tp3ex3.exe
+c:\users\oulayane\documents\visual studio 2015\Projects\tp3ex3\tp3ex3\obj\Debug\tp3ex3.pdb
+F:\tp3ex3\tp3ex3\bin\Debug\tp3ex3.exe.config
+F:\tp3ex3\tp3ex3\bin\Debug\tp3ex3.exe
+F:\tp3ex3\tp3ex3\bin\Debug\tp3ex3.pdb
+F:\tp3ex3\tp3ex3\obj\Debug\tp3ex3.csprojResolveAssemblyReference.cache
+F:\tp3ex3\tp3ex3\obj\Debug\tp3ex3.Form1.resources
+F:\tp3ex3\tp3ex3\obj\Debug\tp3ex3.Properties.Resources.resources
+F:\tp3ex3\tp3ex3\obj\Debug\tp3ex3.csproj.GenerateResource.Cache
+F:\tp3ex3\tp3ex3\obj\Debug\tp3ex3.exe
+F:\tp3ex3\tp3ex3\obj\Debug\tp3ex3.pdb
